@@ -40,3 +40,4 @@ func checkErr(err error) {
 		panic(err)
 	}
 }
+//Error: postgresql: error duplicate key value violates unique constraint
